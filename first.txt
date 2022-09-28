@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 abcdaghewoi;kvnasdnv
+=======
+;agl jgoihs bvapaphghishopgvpklabcd
+>>>>>>> two
